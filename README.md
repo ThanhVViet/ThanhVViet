@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Pink and Blue Doodle Playful Self Introduction All about me Presentation](https://github.com/ThanhVViet/ThanhVViet/assets/126480817/8fb15c71-a2fb-466c-bdd6-85706871852d)
+
