@@ -17,5 +17,10 @@ Here are some ideas to get you started:
 
 ![Pink and Blue Doodle Playful Self Introduction All about me Presentation](https://github.com/ThanhVViet/ThanhVViet/assets/126480817/8fb15c71-a2fb-466c-bdd6-85706871852d)
 
-### Hi there 👋 I am currently a 3rd year student at Da Nang University of Technology. I plan to graduate in 2025. I'm aiming to become a Fullstack Developer 
+### Hi there I'm Le Thanh Viet 👋 I am currently a 3rd year student at Da Nang University of Technology. I plan to graduate in 2025. I'm aiming to become a Fullstack Developer 
+
+### 🏝️ About Me
+
+- 📫 How to reach me: lethanhviet1111235@gmail.com
+
 
