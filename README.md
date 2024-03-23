@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning english and coding skills
 - 📫 How to reach me: lethanhviet1111235@gmail.com
 
-### 👾 Skills
+### 👾 My Project
+
+- Phone e-comercial: https://github.com/ThanhVViet/phone_website
 
 
 
