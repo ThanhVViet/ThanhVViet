@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 
 ### 🏝️ About Me
 
--  I am currently a 3rd year student at Da Nang University of Technology. I plan to graduate in 2025. I'm aiming to become a Fullstack Developer 
-- 📫 How to reach me: lethanhviet1111235@gmail.com
+-  I am currently a 3rd year student at Da Nang University of Technology. I plan to graduate in 2025. I'm aiming to become a Fullstack Developer
 - 🌱 I’m currently learning english and coding skills
+- 📫 How to reach me: lethanhviet1111235@gmail.com
+
 
 
 
